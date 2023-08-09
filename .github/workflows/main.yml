@@ -14,4 +14,4 @@ jobs:
       - name: Get the output time
         run: echo "The time was ${{ steps.hello.outputs.time }}" 
       - name: calculate 1+1
-        run: echo "1+1 = $((1 + 1))"
+        run: echo "1+1 = $((1 + 2))"
