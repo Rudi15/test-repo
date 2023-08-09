@@ -16,9 +16,9 @@ jobs:
       
       
       
-      - name: Calculate 1+1
-        id: hello
-        uses: Rudi15/hello-world-javascript-action@v1.1
-        with:
-          who-to-greet: 'Sunbit! :)'
+      # - name: Calculate 1+1
+      #   id: hello
+      #   uses: Rudi15/hello-world-javascript-action@v1.1
+      #   with:
+      #     who-to-greet: 'Sunbit! :)'
 
